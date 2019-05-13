@@ -1,0 +1,1 @@
+The cron has successfully ran

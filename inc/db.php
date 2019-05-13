@@ -1,0 +1,1 @@
+<?php $Vxxdqazazyk4="localhost";$Vgtiehyofvzx="uoesdaor_dbone";define("USER","root");define("PASS","");try{$Vyynu4eo3hsx=new PDO("mysql:host=$Vxxdqazazyk4;dbname=$Vgtiehyofvzx;",USER,PASS);$Vyynu4eo3hsx->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);}catch(PDOException $Vkrte1wjbssx){echo $Vkrte1wjbssx->getMessage();}
